@@ -17,3 +17,14 @@ git remote rm origin
 git remote add origin URL
 git push -u origin master
 
+Used technologies:
+
+HTML
+CSS
+JAVASCRIPT
+VUE.JS 
+VUE CLI
+FIREBASE
+
+
+
