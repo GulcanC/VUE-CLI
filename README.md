@@ -19,6 +19,8 @@ git push -u origin master
 
 Used technologies:
 
+https://github.com/GulcanC/BTSTRP3.git
+
 HTML
 CSS
 JAVASCRIPT
