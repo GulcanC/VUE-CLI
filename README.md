@@ -1,29 +1,28 @@
-# VUE-CLI-GC-1
-My first Vue CLI Project
-Click here to see my project:
-https://gulcan-coskun-vuecli.web.app/
+# VUE-CLI-PROJECT
+A perfect Development Setup with Vue CLI
 
-to find your current directory :
-pdw
-to push your project to gitHub:
-git init
-git add .
-git status
-git commit -m "First commit"
-git remote add origin URL 
-HERE, if you get the error message like that "remote origin already exist"
-use this:
-git remote rm origin
-git remote add origin URL
-git push -u origin master
+# Go to the Project Page
+ https://gulcan-coskun-vuecli.web.app/
+ 
+# About the Project
+In this project, I learned how to build a Vue application using the CLI tool and how to deploy the application using Firebase.
 
-Used technologies:
-HTML
-CSS
-JAVASCRIPT
-VUE.JS 
-VUE CLI
-FIREBASE
+# Technologies & Techniques Used:
+* VUE CLI
+
+* Firebase
+
+* How to Output Reactive Data
+
+* Listen to Events
+
+* Binding to Form Inputs
+
+* Git
+
+* GitHub Pages
+
+
 
 
 
