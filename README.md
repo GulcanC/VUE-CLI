@@ -1,13 +1,13 @@
 # VUE-CLI-PROJECT
 A perfect Development Setup with Vue CLI
 
-# Go to the Project Page
- https://gulcan-coskun-vuecli.web.app/
+## Go to the Project Page
+:globe_with_meridians: https://gulcan-coskun-vuecli.web.app/
  
-# About the Project
+## About the Project
 In this project, I learned how to build a Vue application using the CLI tool and how to deploy the application using Firebase.
 
-# Technologies & Techniques Used:
+## Technologies & Techniques Used:
 * VUE CLI
 
 * Firebase
