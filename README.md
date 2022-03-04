@@ -1,7 +1,7 @@
 # VUE-CLI-PROJECT
 A perfect Development Setup with Vue CLI
 
-### :point_right: Go to the Project Page
+### :pen: Go to the Project Page
 :globe_with_meridians: https://gulcan-coskun-vuecli.web.app/
  
 ### :point_right: About the Project
